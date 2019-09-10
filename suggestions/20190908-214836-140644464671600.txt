@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Subject: Suggestion from []
+From: name <test@email.com>
+To: oliver12310@outlook.com
+Date: Mon, 09 Sep 2019 04:48:36 -0000
+Message-ID: <20190909044836.322.85087@f17f98d44745>
+
+Pygame!!!!!
+-------------------------------------------------------------------------------
